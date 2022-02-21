@@ -20,7 +20,10 @@ Make your Github profile magic !
 
 ## Frameworks
 Badges of PHP frameworks  
-![Symfony framework](https://img.shields.io/badge/Symfony-Framework-blue?color=blue&labelColor=black&logo=symfony)
-![Symfony framework](https://img.shields.io/badge/Symfony-blue?color=blue&labelColor=black&logo=symfony)   
+| Description | Badge |
+| ----------- | ----- |
+| Symfony | ![Symfony framework](https://img.shields.io/badge/Symfony-Framework-blue?color=blue&labelColor=black&logo=symfony) |
+| Symfony short version | ![Symfony framework](https://img.shields.io/badge/Symfony-blue?color=blue&labelColor=black&logo=symfony) |
+  
 ![Symfony framework](https://img.shields.io/badge/Symfony-Framework-blue?color=blue&labelColor=black&logo=symfony&style=for-the-badge)
 ![Symfony framework](https://img.shields.io/badge/Symfony-blue?color=blue&labelColor=black&logo=symfony&style=for-the-badge)
