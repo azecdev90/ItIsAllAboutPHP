@@ -21,7 +21,7 @@ Make your Github profile magic !
 
 ## Frameworks
 Badges of PHP frameworks  
-| Description | Style |
+| Description | Normal | 
 | ----------- | ----- |
 
 | Symfony | ![Symfony framework](https://img.shields.io/badge/Symfony-Framework-blue?color=blue&labelColor=black&logo=symfony) |
