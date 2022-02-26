@@ -4,11 +4,11 @@ Beautiful badges from PHP world !
 Project for custom badges for PHP tools. 
 
 Make your Github profile magic !
- | Description | Badge | 
- | ----------- | ----- | 
- |     PHP     |   ![PHP langauge](https://img.shields.io/badge/PHP-Language-blue?color=gray&labelColor=4F5B93)  |
- | Current stable | ![PHP Current stable](https://img.shields.io/badge/PHP%208.1.2-Language-blue?color=gray&labelColor=4F5B93) |
- | 8.0.15 | ![PHP 8.0.15](https://img.shields.io/badge/PHP%208.0.15-Language-blue?color=gray&labelColor=4F5B93) |
+ | Description | Badge | For the badge |
+ | ----------- | ----- | ------------- |
+ |     PHP     |   ![PHP langauge](https://img.shields.io/badge/PHP-Language-blue?color=gray&labelColor=4F5B93)  | d |
+ | Current stable | ![PHP Current stable](https://img.shields.io/badge/PHP%208.1.2-Language-blue?color=gray&labelColor=4F5B93) | d  | 
+ | 8.0.15 | ![PHP 8.0.15](https://img.shields.io/badge/PHP%208.0.15-Language-blue?color=gray&labelColor=4F5B93) |d |
  
  
 
