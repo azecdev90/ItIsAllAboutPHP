@@ -24,8 +24,8 @@ Badges of PHP frameworks
 
 | Description | Normal | For the badge |
 | ----------- | ----- | -------------- |
-| Symfony     | ![Symfony framework](https://img.shields.io/badge/Symfony-Framework-blue?color=blue&labelColor=black&logo=symfony) | ![Symfony framework](https://img.shields.io/badge/Symfony-Framework-blue?color=blue&labelColor=black&logo=symfony&style=for-the-badge) |
-
+| Symfony     | ![Symfony framework](https://img.shields.io/badge/Symfony-Framework-blue?color=blue&labelColor=black&logo=symfony) | ![Symfony framework](https://img.shields.io/badge/Symfony-Framework-blue?color=blue&labelColor=black&logo=symfony&style=for-the-badge)|
+|            | | |
 
 | Description | Normal | For the badge |
 | ----------- | ----- | -------------- |
