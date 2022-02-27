@@ -21,6 +21,10 @@ Make your Github profile magic !
 
 ## Frameworks
 Badges of PHP frameworks  
+
+| Description | Normal | For the badge |
+| ----------- | ----- | -------------- |
+| 
 | Description | Normal | For the badge |
 | ----------- | ----- | -------------- |
 
