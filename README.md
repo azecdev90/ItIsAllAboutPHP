@@ -13,7 +13,6 @@ Make your Github profile magic !
 
 ## Frameworks
 Badges of PHP frameworks  
-
 | Description | Normal | for-the-badge | SV | SV for-the-badge |
 | ----------- | ----- | -------------- | -- | ---- |
 | Symfony     | ![Symfony framework](https://img.shields.io/badge/Symfony-Framework-blue?labelColor=black&logo=symfony) | ![Symfony framework](https://img.shields.io/badge/Symfony-Framework-blue?labelColor=black&logo=symfony&style=for-the-badge)| ![Symfony framework](https://img.shields.io/badge/Symfony-blue?labelColor=black&logo=symfony) |![Symfony framework](https://img.shields.io/badge/Symfony-blue?labelColor=black&logo=symfony&style=for-the-badge) |
