@@ -2,7 +2,7 @@
 
 Beautiful badges from PHP world !  
 
-Project for custom badges for PHP tools.  
+Custom badges from PHP world. If you can contrribute, you can open Pull request !  
 
 Make your Github profile magic !
  | Description | Normal | For the badge |         |         |
